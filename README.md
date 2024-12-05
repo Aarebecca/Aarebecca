@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on AntV
+- 💬 Ask me about data visualization
+
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aarebecca&theme=dracula&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://bubkoo-server.vercel.app/365dots" height="196"/>
