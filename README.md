@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/aarebecca-g6-maintainer.json)](https://github.com/antvis/g6)
+
+I'm Aaron,
+
 - 🔭 I’m currently working on AntV
 - 💬 Ask me about data visualization
 
